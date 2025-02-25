@@ -57,10 +57,10 @@ Press Cmd + R to build and run the project/app.
 ## 📸 Screenshots
 
 ### **Login Screen**
-![Login Screen](https://raw.githubusercontent.com/Umar25iOS/Dynamic/main/Screenshots/login.jpg?raw=true)
+![Login Screen](https://raw.githubusercontent.com/Umar25iOS/Dynamic/main/Screenshots/login.png)
 
 ### **Home Screen (Posts)**
-![Home Screen - Posts](https://raw.githubusercontent.com/Umar25iOS/Dynamic/main/Screenshots/home_posts.jpg?raw=true)
+![Home Screen - Posts](https://raw.githubusercontent.com/Umar25iOS/Dynamic/main/Screenshots/home_posts.png)
 
 ### **Favorites Screen**
-![Favorites Screen](https://raw.githubusercontent.com/Umar25iOS/Dynamic/main/Screenshots/home_favorites.jpg?raw=true)
+![Favorites Screen](https://raw.githubusercontent.com/Umar25iOS/Dynamic/main/Screenshots/home_favorites.png)
