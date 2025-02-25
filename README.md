@@ -53,15 +53,14 @@ Step 4: Run the App
 Select an iOS Simulator.
 Press Cmd + R to build and run the project/app.
 
-
 ---
 ## 📸 Screenshots
 
 ### **Login Screen**
-![Login Screen](https://github.com/Umar25iOS/DynamicApp/blob/main/Screenshots/login.png?raw=true)
+![Login Screen](https://github.com/Umar25iOS/Dynamic/blob/main/Screenshots/login.png?raw=true)
 
 ### **Home Screen (Posts)**
-![Home Screen - Posts](https://github.com/Umar25iOS/DynamicApp/blob/main/Screenshots/home_posts.png?raw=true)
+![Home Screen - Posts](https://github.com/Umar25iOS/Dynamic/blob/main/Screenshots/home_posts.png?raw=true)
 
 ### **Favorites Screen**
-![Favorites Screen](https://github.com/Umar25iOS/DynamicApp/blob/main/Screenshots/home_favorites.png?raw=true)
+![Favorites Screen](https://github.com/Umar25iOS/Dynamic/blob/main/Screenshots/home_favorites.png?raw=true)
