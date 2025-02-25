@@ -1,10 +1,13 @@
 # DynamicApp
 
 ## 📌 Overview
+
 DynamicApp is an iOS application built using **SwiftUI**, following the **MVVM** architecture. It uses **Realm-Swift** for local storage, **Alamofire** for networking, and **RxSwift/RxCocoa** for reactive programming.
 
 ## 🎯 Features
+
 ### **Screen 1: Login Screen**
+
 - Users enter their **email** and **password**.
 - Form validation:
   - Email must be a valid email address.
@@ -15,17 +18,22 @@ DynamicApp is an iOS application built using **SwiftUI**, following the **MVVM**
 - **Logout option** in the Home screen.
 
 ### **Screen 2: Home Screen (Tabs - Posts & Favorites)**
+
 #### **Posts Tab**
+
 - Fetches **posts** from `https://jsonplaceholder.typicode.com/posts`.
 - Displays **cached posts** when offline.
 - Users can **toggle favorite** by tapping the star icon.
 
 #### **Favorites Tab**
+
 - Displays **favorite posts**.
 - Users can **remove favorites** via swipe-to-delete.
 
 ---
+
 ## 🏗 Tech Stack
+
 - **SwiftUI** - UI Development
 - **MVVM** - Architecture
 - **Realm-Swift** - Local Database
@@ -33,27 +41,37 @@ DynamicApp is an iOS application built using **SwiftUI**, following the **MVVM**
 - **RxSwift / RxCocoa** - Reactive Programming
 
 ---
+
 ## 🚀 Setup & Installation
 
 ### **Step 1: Clone the Repository**
+
 ```sh
 git clone https://github.com/Umar25iOS/DynamicApp.git
 cd DynamicApp
+```
 
-Step 2: Open Project in Xcode
+### **Step 2: Open Project in Xcode**
+
+```sh
 open DynamicApp.xcodeproj
+```
 
-Step 3: Resolve Dependencies
-Since this project uses Swift Package Manager (SPM):
+### **Step 3: Resolve Dependencies**
 
-Open the project in Xcode.
-Go to File > Packages > Reset Package Caches.
-Then, go to File > Packages > Resolve Package Versions.
-Step 4: Run the App
-Select an iOS Simulator.
-Press Cmd + R to build and run the project/app.
+Since this project uses **Swift Package Manager (SPM)**:
+
+1. Open the project in Xcode.
+2. Go to **File > Packages > Reset Package Caches**.
+3. Then, go to **File > Packages > Resolve Package Versions**.
+
+### **Step 4: Run the App**
+
+- Select an **iOS Simulator**.
+- Press **Cmd + R** to build and run the project.
 
 ---
+
 ## 📸 Screenshots
 
 ### **Login Screen**
