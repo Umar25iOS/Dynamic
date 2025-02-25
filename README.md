@@ -51,7 +51,8 @@ Go to File > Packages > Reset Package Caches.
 Then, go to File > Packages > Resolve Package Versions.
 Step 4: Run the App
 Select an iOS Simulator.
-Press Cmd + R to build and run the project.
+Press Cmd + R to build and run the project/app.
+
 
 ---
 ## 📸 Screenshots
