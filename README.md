@@ -37,7 +37,7 @@ DynamicApp is an iOS application built using **SwiftUI**, following the **MVVM**
 
 ### **Step 1: Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/DynamicApp.git
+git clone https://github.com/Umar25iOS/DynamicApp.git
 cd DynamicApp
 
 Step 2: Open Project in Xcode
