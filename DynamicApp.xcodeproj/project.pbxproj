@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D059C752D6DA5D6008A283E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7D059C742D6DA5D6008A283E /* README.md */; };
 		7D11D8C52D631F56009AE2EF /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 7D11D8C42D631F56009AE2EF /* RxCocoa */; };
 		7D11D8C72D631F56009AE2EF /* RxRelay in Frameworks */ = {isa = PBXBuildFile; productRef = 7D11D8C62D631F56009AE2EF /* RxRelay */; };
 		7D11D8C92D631F56009AE2EF /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 7D11D8C82D631F56009AE2EF /* RxSwift */; };
@@ -33,12 +34,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7D059C742D6DA5D6008A283E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7DC0C96E2D5B2CCE00AA48BC /* DynamicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DynamicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DC0C97E2D5B2CD100AA48BC /* DynamicAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DynamicAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DC0C9882D5B2CD100AA48BC /* DynamicAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DynamicAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		7D059C792D6DA71A008A283E /* Screenshots */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		7DC0C9702D5B2CCE00AA48BC /* DynamicApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = DynamicApp;
@@ -90,6 +97,8 @@
 		7DC0C9652D5B2CCE00AA48BC = {
 			isa = PBXGroup;
 			children = (
+				7D059C742D6DA5D6008A283E /* README.md */,
+				7D059C792D6DA71A008A283E /* Screenshots */,
 				7DC0C9702D5B2CCE00AA48BC /* DynamicApp */,
 				7DC0C9812D5B2CD100AA48BC /* DynamicAppTests */,
 				7DC0C98B2D5B2CD100AA48BC /* DynamicAppUITests */,
@@ -131,6 +140,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				7D059C792D6DA71A008A283E /* Screenshots */,
 				7DC0C9702D5B2CCE00AA48BC /* DynamicApp */,
 			);
 			name = DynamicApp;
@@ -235,6 +245,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D059C752D6DA5D6008A283E /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
